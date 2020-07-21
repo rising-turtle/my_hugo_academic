@@ -32,19 +32,19 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '' #http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/s41315-016-0002-6.pdf' #http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=bSuH0cJwwnw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 

@@ -31,14 +31,14 @@ featured: true
 # links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 'https://d1wqtxts1xzle7.cloudfront.net/42804583/An_RGB-D_Camera_based_Walking_Pattern_Detection_Method_for_Smart_Rollators.pdf?1455808229=&response-content-disposition=inline%3B+filename%3DAn_RGB-D_Camera_based_Walking_Pattern_De.pdf&Expires=1595346379&Signature=fYRMIZpGMJajE1PpbIBqTT-uJpbhpTQF8ANXPAvJUzGVE8xb8uNxvl1YIXZwiJXM0MUBTseiI3Oj-nMkZmz4gqH7pABjrKSu5E8QaoyhtXxzLeviUk5aybIuCgbwETiF5N4~CkfsYXjAc3PP4li5DAvadClCqca9rz~D4j0bPgEMTbEOCjG5ataWO72tElnPJIMt2POvn7Vm5Blt3S1k8xmh-sp6aqtetq8a~IS~epnvrEXEwJXmHTmZ-RhNtL6JV-noSOelgo-~d5xygdVIOog-vZG4E2ZkwheFCNnevSnHJngayw5DL82QiFvwg6Cz~hZU-KtFypn6~n-~af44Dw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+# url_video: 'https://www.youtube.com/watch?v=bSuH0cJwwnw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '' #http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9099599&casa_token=Mydcy-UDUB0AAAAA:AcOs2TUSS4DqyYAdUETJMxpICmsbjdf7Cim09lRO-YXvKtAJygsl14KbNo6BoZkW9q704Qw' #http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 

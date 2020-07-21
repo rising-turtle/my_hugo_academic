@@ -32,7 +32,7 @@ featured: true
 # links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 'https://pdfs.semanticscholar.org/78ee/ed1204e2519290e858a3db7a5168d5a01ef9.pdf' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

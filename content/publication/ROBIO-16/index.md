@@ -31,14 +31,14 @@ featured: true
 # links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 'https://d1wqtxts1xzle7.cloudfront.net/53064623/ROBIO_CameraReady_update.pdf?1494392301=&response-content-disposition=inline%3B+filename%3DAn_Indoor_Navigation_Aid_for_the_Visuall.pdf&Expires=1595346416&Signature=eRD5jz04Fq19V~Bpy-haPdv9W9bHNWyDwA5mb8kIF0AfG3QZZrg1I0Szc96rg5J1KmCjtpF2-yA3KNz9IWpXVI1e7HMlDKzcclQ669vytd5ImOaVHtyHxQr7TPAdHBIThTlnvGIiLwlsLCw-ny7dIhObwGMKRfHd17FfvXpXg1ITO-TPJbOE-FqF5~gjDQNdFpi-zrQwbq1XHLQ9xQG~ztQlqaIqQZW-Lw6eq1gnh-TCCAtbtQmUcRyttT8zkUq0y3o8jipDe-lsuP31rgAoBYGgqsdsRSlqhf7yRO-~Mp6CkBS0cnJghGd7Y~3hQELapFaJ3Y2br1u8R4IX327yYQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=mTAa8xx3fMo&t=6s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

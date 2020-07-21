@@ -31,14 +31,14 @@ featured: true
 # links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 'http://www.bmva.org/bmvc/2017/papers/paper169/paper169.pdf' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'poster.png'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=yP0loBTxoXs'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

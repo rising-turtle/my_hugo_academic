@@ -34,14 +34,14 @@ featured: true
 # links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 'https://www.researchgate.net/profile/Md_Rayhan_Afsar/publication/328869112_Development_of_a_Motorized_Robotic_Walker_Guided_by_an_Image_Processing_System_for_Human_Walking_Assistance_and_Rehabilitation/links/5bebad82a6fdcc3a8dd47699/Development-of-a-Motorized-Robotic-Walker-Guided-by-an-Image-Processing-System-for-Human-Walking-Assistance-and-Rehabilitation.pdf' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=Zq8ODj0KutE'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

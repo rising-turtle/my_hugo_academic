@@ -34,7 +34,7 @@ featured: true
 # links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6485179&casa_token=bZnzwOe3DUkAAAAA:RMEh_LL0YgAbN4rBTZ-T2d1tsLyHw0yksrCDEXaSKJvn2AtINu2mpA7eFp7uZ1qsbYo1dnU' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

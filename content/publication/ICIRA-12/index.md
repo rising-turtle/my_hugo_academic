@@ -33,7 +33,7 @@ featured: true
 # links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 'https://www.researchgate.net/profile/He_Zhang72/publication/262166425_A_Graph-Based_Hierarchical_SLAM_Framework_for_Large-Scale_Mapping/links/58d01573458515b6ed8c4f13/A-Graph-Based-Hierarchical-SLAM-Framework-for-Large-Scale-Mapping.pdf' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

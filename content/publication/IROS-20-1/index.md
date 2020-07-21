@@ -38,7 +38,7 @@ url_pdf: '' #http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=kYlQvT2iIow'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

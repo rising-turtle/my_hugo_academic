@@ -60,6 +60,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rising-turtle
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCTQAkj_bkCJKLj-RzKFcTbw?view_as=subscriber
 #- icon: cv
 #  icon_pack: ai
 #  link: files/cv.pdf

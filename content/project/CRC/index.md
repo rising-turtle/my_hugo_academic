@@ -1,6 +1,6 @@
 ---
 title: Co-Robotic Cane (CRC)
-summary: A co-robot cane (CRC) to assist a visually impaired person for wayfinding and obstacle avoidance.
+summary: A CRC to aid a visually impaired person for wayfinding and obstacle avoidance.
 tags:
 - CRC
 date: "2016-04-27T00:00:00Z"
