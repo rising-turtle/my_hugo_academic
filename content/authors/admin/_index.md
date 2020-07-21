@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate of Computer Science
+role: Postdoc in Computer Science #  Postdoctoral Associate of Computer Science
 
 # Organizations/Affiliations
 organizations:
 - name: Virginia Commonwealth University (VCU)
-  url: "asd"
+  url: "http://www.people.vcu.edu/~cye/laboratory_current_members.htm"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Robotics Vision, SLAM, VIO, Machine Learning, 3D Mapping, Human Pose Estimation.
@@ -60,6 +60,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rising-turtle
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/He_Zhang72
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCTQAkj_bkCJKLj-RzKFcTbw?view_as=subscriber

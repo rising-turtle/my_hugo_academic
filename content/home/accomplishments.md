@@ -18,34 +18,97 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "VCU Tompkins-McCaw Library"
+  organization_url = "https://www.vcu.edu/"
+  title = "Postdoc How-to Talks series"
+  url = "https://scholarscompass.vcu.edu/howtotalks/"
+  certificate_url = ""
+  date_start = "2019-08-11"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "Self-Driving Car Engineer"
+  url = ""
+  certificate_url = "/certificates/certificate_self-driving_car.pdf"
+  date_start = "2018-06-06"
+  date_end = ""
+  description = ""
+
+[[item]]
+    organization = "American Institute for Medical and Biological Engineering"
+    organization_url = "https://www.aslms.org/about-aslms/media-center/featured-articles/professional-resources/2017/05/11/aimbe-showcases-mbe-technology-on-capitol-hill"
+    title = "Congressional BioMedical Technology Exhibition"
+    url = "http://www.people.vcu.edu/~cye/news_3.htm"
+    certificate_url = ""
+    date_start = "2017-05-05"
+    date_end = ""
+    description = "Demonstrated CoRobotic Cane at AIMBE Congressional BioMedical Technology Exhibition"
+
+[[item]]
+    organization = "Computing Research Association"
+    organization_url = "https://cra.org/govaffairs/blog/2016/06/robotics-caucus-2016-hill-event/"
+    title = "Congressional Robotics Caucus"
+    url = "https://www.nwaonline.com/news/2016/jun/13/ualr-reps-show-off-advances-as-robotics/?news-arkansas"
+    certificate_url = ""
+    date_start = "2016-06-16"
+    date_end = ""
+    description = "Demonstrated Smart Cane Cane at Congressional Robotics Caucus"
+
+[[item]]
+    organization = "Coulter Investment Forum"
+    organization_url = "https://whcf.org/coulter-foundation-programs/coulter-investment-forum/"
+    title = "NIH Coulter College Commercializing Innovation Program"
+    url = "https://www.dropbox.com/sh/iflfw4mvandt6bl/AADPtNeX8OpdoEbBwjw8JjJKa?dl=0 "
+    certificate_url = ""
+    date_start = "2017-04-16"
+    date_end = ""
+    description = "Completed C3i course and Final Pitch"
+
+[[item]]
+    organization = "Systems Engineering Department of UA Little Rock"
+    organization_url = "https://ualr.edu/systemsengineering/"
+    title = "System Engineering Award for Excellent Ph.D. Student"
+    url = ""
+    certificate_url = ""
+    date_start = "2018-04-10"
+    date_end = ""
+    description = ""
+
+[[item]]
+    organization = "UA Little Rock"
+    organization_url = "https://ualr.edu/"
+    title = "2nd Place Award for 3MT Competition at UA Little Rock"
+    url = ""
+    certificate_url = ""
+    date_start = "2018-02-10"
+    date_end = ""
+    description = ""
+
+[[item]]
+    organization = "Udacity"
+    organization_url = "https://www.udacity.com/"
+    title = "Deep Learning Nanodegree Foundation"
+    url = ""
+    certificate_url = "/certificates/certificate_deep_learning.pdf"
+    date_start = "2017-11-16"
+    date_end = ""
+    description = ""
 
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Autonomous Navigation for Flying Robots"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "/certificates/edx_Certificate.pdf"
+  date_start = "2014-07-03"
+  date_end = ""
   description = ""
+
+
 
 +++
