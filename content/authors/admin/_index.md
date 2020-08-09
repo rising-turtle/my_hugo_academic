@@ -68,7 +68,7 @@ social:
   link: https://www.youtube.com/channel/UCTQAkj_bkCJKLj-RzKFcTbw?view_as=subscriber
 - icon: cv
   icon_pack: ai
-  link: files/zh_cv.pdf
+  link: files/cv_ZH.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
