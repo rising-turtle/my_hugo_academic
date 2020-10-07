@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "IROS 2020 Workshop on Perception, Learning, and Control for Autonomous Agile Vehicles"
+  organization_url = "https://wp.nyu.edu/workshopiros2020plc/vio-competition/"
+  title = "2nd Place in IROS 2020 UZH-FPV VIO Competition"
+  url = "https://fpv.ifi.uzh.ch/?sourcenova-comp-post=2019-2020-uzh-fpv-benchmark"
+  certificate_url = ""
+  date_start = "2020-10-29"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "VCU Tompkins-McCaw Library"
@@ -57,7 +66,7 @@ date_format = "Jan 2006"
     certificate_url = ""
     date_start = "2016-06-16"
     date_end = ""
-    description = "Demonstrated Smart Cane Cane at Congressional Robotics Caucus"
+    description = "Demonstrated Smart Cane at Congressional Robotics Caucus"
 
 [[item]]
     organization = "Coulter Investment Forum"
